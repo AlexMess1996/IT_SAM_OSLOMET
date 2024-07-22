@@ -1,4 +1,4 @@
-# Bachelor Project - Backend System for Course Management Application
+# Backend System for Course Management Application
 
 ## Project Overview
 
